@@ -11,3 +11,4 @@ We present FacPat, which identifies the optimal factor(s)-specific patterns expl
 
 # Overview of Facpat
 
+![FacPat](https://user-images.githubusercontent.com/111483980/187581224-7d117df9-2a65-40d2-a54d-8cb075170eb7.png)
