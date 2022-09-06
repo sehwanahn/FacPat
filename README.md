@@ -1,13 +1,15 @@
+<!--
 # FacPat
 
-Factor-specific pattern mining from a large-scale drug-induced gene expression profile
+Factors-specific pattern mining from large-scale drug-induced gene expression profiles
 
 SeHwan Ahn*, JuHan Kim*
 
 # Abstract
-Identifying relationships among drugs, diseases, and genes from large-scale drug-induced gene expression profiles is important in drug discovery. The significant biological features can be identified from multivariate large-scale drug-induced gene expression profiles. However, it is necessary to develop new approaches and methods that can efficiently identify important features on a large-scale multivariate dataset.
+Identifying the relationships among drugs, diseases, and genes from large-scale drug-induced gene expression profiles is important in drug discovery. Significant biological features can be identified from multivariate large-scale drug-induced gene expression profiles. However, it is necessary to develop new approaches and methods that can efficiently identify important features in a large-scale multivariate dataset.
 
-We present FacPat, which identifies the optimal factor(s)-specific patterns explaining the expression profiles of differentially expressed signatures induced by drugs. We mined the optimal factor-specific patterns using a genetic algorithm based on the pattern distance. To deal with multiple testing problems, we generated the distribution of the pattern distances by shuffling sample labels of expression profiles. Finally, we discovered significant and directly interpretable factor-specific patterns consisting of 480 genes, 7 chemical compounds, and 38 human cell lines.
+We present FacPat, which identifies the optimal factor(s)-specific patterns that explain the expression profiles of drug-induced differentially expressed signatures. We mined the optimal factor-specific patterns using a genetic algorithm based on the pattern distance. Because we scored the pattern distance for each gene, we applied a Benjamini Hochberg correction to control the false discovery rate. Finally, we discovered significant and directly interpretable factor-specific patterns consisting of 480 genes, 7 chemical compounds, and 38 human cell lines.
+-->
 
 # Overview of FacPat
 
