@@ -21,5 +21,5 @@ optional arguments:
 ~~~
 
 # LICENCE
-This project is licensed under the Seoul National University Biomedical Informatics (SNUBI), Division of Biomedical Informatics, Seoul National University College of Medicine, Seoul, Republic of Korea.   
+This project is licensed under the Seoul National University Biomedical Informatics (SNUBI), Department of Biomdeical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea.   
 This source code and data can be used only for NON COMMERCIAL purposes.
